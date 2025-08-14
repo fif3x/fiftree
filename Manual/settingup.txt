@@ -1,0 +1,22 @@
+Well done! You downloaded Fiftree, but now what?
+
+Before using it for the first time, you have to follow some steps
+
+1. Setting up the Environmental Variables
+
+To do that, you need to firstly ensure you have downloaded the right verison of the binary. You can also compile the code yourself, if you want
+
+Then, on your PATH Environmental Variables, create a new one and set it as the path to the `fiftree.exe` file.
+
+Now, you can succesfully use the command `fiftree {argument}` through the terminal!
+
+2. Writing a fiftree script
+
+(Read writingAnFTRfile.txt)
+
+3. Running the command
+
+After following all steps, all you have to do is type `fiftree {filename}.ftr`/`fiftree {filename}.txt` in your terminal!
+If you have followed the guidelines correctly, your project will be completed! You can find your binary in `projectfolder/bin/`
+
+It is also recommended to take a look into the examples
