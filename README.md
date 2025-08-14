@@ -8,6 +8,6 @@ Accepted filetypes: `.txt`, `.ftr` (check manual)
 
 Contact me!
 
-Discord: @fif3x_ 
+Discord: @fif3x_ , 
 Instagram: @fif3x._ 
 
