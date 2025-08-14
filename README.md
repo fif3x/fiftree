@@ -11,3 +11,21 @@ Contact me!
 Discord: @fif3x_ , 
 Instagram: @fif3x._ 
 
+# How to install
+
+1. Go to your terminal and write
+```
+git --version
+```
+to ensure that you have **git** installed in your machine
+
+2. Paste
+```
+```
+but replace "os" with your OS (`linux` or `win`)
+
+3. Add the binary to your **Environmental Variables** (you can also follow the manual for this)
+
+4. Follow the manual
+
+_Note: `.ftr` files are the files you will be writing the build instructions._ 
