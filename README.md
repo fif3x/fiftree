@@ -7,5 +7,8 @@ Available languages: C, C++
 Accepted filetypes: `.txt`, `.ftr` (check manual)
 
 Contact me! 
+
 Discord: @fif3x_ 
+
 Instagram: @fif3x._ 
+
