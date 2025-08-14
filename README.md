@@ -23,7 +23,7 @@ to ensure that you have **git** installed in your machine
 ```
 git clone https://github.com/fif3x/fiftree.git --branch os
 ```
-but replace "os" with your OS (`linux` or `win`)
+but replace "os" with your OS (`linux` or `win`), for example, if you use Linux, type `git clone [...] --branch linux`
 
 3. Add the binary to your **Environmental Variables** (you can also follow the manual for this)
 
