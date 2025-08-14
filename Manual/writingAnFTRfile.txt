@@ -1,0 +1,33 @@
+How do you write the content inside an FTR file? Its really simple actually, you just have to understand some basics and you are ready to build your fantastic projects!
+Here are the following steps, line by line:
+
+1. First line
+In the first line, you can write what you want your binary's name to be
+For example, if you are on Windows and write "output" in your first line, the binary coming out will be `output.exe`
+
+2. Second line
+In the second line, you write with what language you are going to compile, and it can either be C or C++ (providing that you use `gcc` or `g++`)
+For example, if you are going to compile in C, you write "C" in the second line. Otherwise, you write "CPP"
+
+3. Third Line
+In the third line, you write nothing. Its the line that splits the Fiftree script in 2 parts, the necessary and the files
+
+4. Comments
+You can add comments in your Fiftree script using ';'. For example:
+```
+; this is a comment
+```
+
+5. Unwanted Files
+If you want a file to move to a directory named "Unwanted" you just put "UW_" in the start of their name
+
+6. Microsoft Files
+Same with Unwanted Files, but they move to the directory "Microsoft" and you put "MS_" in the start of their name
+
+7. More than one file to compile
+You simply put `STC_` in the start of the name, which means `Source To Compile`. The main source that will be compiled and needs to exist is either `main.cpp` or `main.c`
+
+8. Files
+For any other file, for example `.py`, `.cmd`, `.bat`, `.c`, `.h` or `.hpp`, you just write their name and extension and they will be placed in the directory needed
+
+To have a deeper understanding, please check the examples, especially the "SimpleCalc" one

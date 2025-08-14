@@ -1,0 +1,2 @@
+Good job, you have followed almost all manuals! Now what? Now, you just need to use Fiftree!
+To do that, go to your project directory through the terminal, and type `fiftree {file}`! Its really that simple!

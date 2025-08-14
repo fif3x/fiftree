@@ -1,0 +1,28 @@
+When using Fiftree, your code needs to be formatted under some specific rules to ensure that no errors pop up. So what do you need to do?
+
+1. Include Paths
+
+Your code might look like this:
+```
+#include "printfunction.h"
+
+int main(){
+    printfunction("Hello, World!");
+    return 0;
+}
+```
+
+But due to files moving and other factors, this include path wont. But how to fix that?
+Assuming your `fiftree.txt`/`fiftree.ftr` files looks like this:
+```
+main
+CPP
+
+main.cpp
+printfunction.h
+```
+(for writing an FTR file, please check "writingAnFTRfile.txt".)
+You would need to update your path to
+`#include "../lib/prinfunction.h"`
+
+Please check the Examples to understand the process better
