@@ -21,6 +21,7 @@ to ensure that you have **git** installed in your machine
 
 2. Paste
 ```
+git clone https://github.com/fif3x/fiftree.git --branch os
 ```
 but replace "os" with your OS (`linux` or `win`)
 
