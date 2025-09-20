@@ -25,8 +25,10 @@ git clone https://github.com/fif3x/fiftree.git --branch os
 ```
 but replace "os" with your OS (`linux` or `win`), for example, if you use Linux, type `git clone [...] --branch linux`
 
-3. Add the binary to your **Environmental Variables** (you can also follow the manual for this)
+3. Compile your binary using `g++` **(Optional)**
 
-4. Follow the manual
+4. Add the binary to your **Environmental Variables** (you can also follow the manual for this)
+
+5. Follow the manual **(Optional)**
 
 _Note: `.ftr` files are the files you will be writing the build instructions._ 
